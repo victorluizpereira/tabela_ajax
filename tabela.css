@@ -1,0 +1,35 @@
+body{
+	background-color: #B0C4DE;
+}
+div{
+	padding-top:10px;
+	position:absolute;
+	top:25%;
+	left:26%;
+	background-color: #ADD8E6;
+	border-radius:10px;
+	box-shadow:0 1px 1px 1px rgba(0,0,0,0.5);
+	height:215px;
+	width:500px;
+	text-align:center;
+}
+table{
+	border-collapse:collapse;
+	margin: auto;
+}
+table thead tr td{
+	text-align:center;
+	width:15%;
+	background-color: #DCDCDC;
+}
+table tbody tr td{
+	background-color:white;
+	text-align:center;
+	width:15%;
+}
+button{
+	position:absolute;
+	top:88%;
+	left:79%;
+	outline:none;
+}
